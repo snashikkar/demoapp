@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.anisan
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, cache-ehcache, data, data-jdbc, elasticsearch, flyway, graalvm, gradle, h2, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, management, micronaut-build, mockito, multi-tenancy, nats, netty-server, openapi, openrewrite, problem-json, readme, security, security-annotations, security-jwt, security-oauth2, security-session, shade, slf4j-simple, swagger-ui, testcontainers, toml, toml-build, views-thymeleaf]
